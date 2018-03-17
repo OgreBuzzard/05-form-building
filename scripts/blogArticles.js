@@ -1,6 +1,6 @@
 'use strict';
 
-var rawData = [
+let rawData = [
   {
     title:       'Bacon Ipsum',
     category:    'food',
